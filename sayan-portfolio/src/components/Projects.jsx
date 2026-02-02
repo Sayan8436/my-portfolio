@@ -29,7 +29,7 @@ export default function Projects() {
       desc: "A productivity application where someone can add his task and also can updates them.",
       image: "/projects/task management.png",
       tech: ["React", "Express.js", "MongoDB", "Node.js", ],
-      demo: "#",
+      demo: "https://fullstack-task-manager-eta.vercel.app/",
       code: "https://github.com/Sayan8436/Fullstack-Task-manager",
     },
     {
