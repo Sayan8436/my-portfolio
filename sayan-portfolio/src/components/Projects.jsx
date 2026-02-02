@@ -16,6 +16,14 @@ export default function Projects() {
       demo: "https://fashionly-ecommerce.vercel.app/",
       code: "https://github.com/Sayan8436/fashionly-ecommerce",
     },
+     {
+      title: "My Portfolio ",
+      desc: "This is my own portfolio website all about me.",
+      image: "/projects/portfolio.png",
+      tech: ["React", "Node.js", "MongoDB", "Express.js", "TailwindCss",],
+      demo: "https://my-portfolio-rho-lilac-49.vercel.app/",
+      code: "https://github.com/Sayan8436/my-portfolio",
+    },
     {
       title: "Task Management App",
       desc: "A productivity application where someone can add his task and also can updates them.",
